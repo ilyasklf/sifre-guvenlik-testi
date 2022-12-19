@@ -6,7 +6,6 @@ Boşluk içermesi istenmeyen, şifre olarak girilen bir karakter dizininin içer
 PUANLAMA KRİTERLERİ:
 
 Her bir küçük harf 10 puan ve 20 puandan fazla küçük harften verilemez
-
 Her bir büyük harf 10 puan ve 20 puandan fazla büyük harften verilemez
 Her bir rakam 10 puan ve 20 puandan fazla rakamdan verilemez
 Her bir sembol 10 puandır.
